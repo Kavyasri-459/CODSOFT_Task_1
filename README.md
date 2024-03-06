@@ -15,5 +15,7 @@ You can incorporate additional details as follows:
 7. Display the user's score, which can be based on the number of attempts taken or rounds won.
 
    **OUTPUT**
+
+   
 ![image](https://github.com/Kavyasri-459/CODSOFT_Task_1/assets/126965141/ff189774-afc5-4d29-962a-da14a2bc2150)
 
